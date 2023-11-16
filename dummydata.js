@@ -5,6 +5,7 @@ const blog = [
       Image:
         "https://res.cloudinary.com/dpqbph9ya/image/upload/f_auto,q_auto/v1/mobile/mpotlwzuex0aj8sbaou2",
       MRP: "M.R.P.: ₹1,39,900",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -18,6 +19,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
       MRP: "M.R.P.: ₹56,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -32,6 +34,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
       MRP: "M.R.P.: ₹57,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -46,6 +49,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
       MRP: "M.R.P.: ₹57,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -60,6 +64,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70",
       MRP: "M.R.P.: ₹40,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -74,6 +79,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70",
       MRP: "M.R.P.: ₹12,490",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -88,6 +94,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70",
       MRP: "M.R.P.: ₹11,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -102,6 +109,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/c/x/-original-imagtyxdm82fsv6m.jpeg?q=70",
       MRP: "M.R.P.: ₹11,490",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -116,6 +124,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -130,6 +139,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -144,6 +154,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -158,6 +169,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
       MRP: "M.R.P.: ₹6,328",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -172,6 +184,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
       MRP: "M.R.P.: ₹25,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -186,6 +199,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
       MRP: "M.R.P.: ₹6,328",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -201,6 +215,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/g/j/-original-imagt5uejuxw2ytm.jpeg?q=70",
       MRP: "M.R.P.: ₹13,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -218,6 +233,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70",
       MRP: "M.R.P.: ₹1399",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -232,6 +248,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l1s6z680/speaker/tower-speaker/b/v/j/fridoble-bencley-original-imagd93feyprzyhb.jpeg?q=70",
       MRP: "M.R.P.: ₹5446",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -246,6 +263,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/mobile-tablet-speaker/f/g/3/powerpact-bass-stereo-audio-color-changing-led-light-wireless-original-imagrwmfzupf3pfe.jpeg?q=70",
       MRP: "M.R.P.: ₹391",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -260,6 +278,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-speaker/k/m/z/yes-10-ace-tg-113-splash-proof-3d-sound-with-high-bass-6hr-original-imagj2jga3xqtfy7.jpeg?q=70",
       MRP: "M.R.P.: ₹479",
+      quantity:"1",
       Rating: "3.6",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -274,6 +293,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kr3tj0w0/speaker/soundbar/e/v/c/sba20f-blaupunkt-original-imag4yrh4yhgmzpr.jpeg?q=70",
       MRP: "M.R.P.: ₹1299",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -288,6 +308,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/2/6/w/-original-imagsjnvnfprucbz.jpeg?q=70",
       MRP: "M.R.P.: ₹1699",
+      quantity:"1",
       Rating: "3.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -302,6 +323,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/c/s/j/-original-imaghb5cb86bjhgs.jpeg?q=70",
       MRP: "M.R.P.: ₹6999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -316,6 +338,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70",
       MRP: "M.R.P.: ₹8999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -330,6 +353,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70",
       MRP: "M.R.P.: ₹8999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -344,6 +368,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/keykscw0-0/speaker/home-theatre/s/e/j/jumbo-9-core-original-imafvjfdgnheg4sz.jpeg?q=70",
       MRP: "M.R.P.: ₹3940",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -358,6 +383,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/3/4/3/-original-imagtjhdgfqmhu33.jpeg?q=70",
       MRP: "M.R.P.: ₹1799",
+      quantity:"1",
       Rating: "3.8",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -372,6 +398,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg?q=70",
       MRP: "M.R.P.: ₹9490",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -386,6 +413,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kjom6q80-0/speaker/mobile-tablet-speaker/r/a/g/blitz-2000-boat-original-imafz78cs8ftzgbq.jpeg?q=70",
       MRP: "M.R.P.: ₹3999",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -400,6 +428,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/mobile-tablet-speaker/s/q/a/jb-mini-boost-4-colorful-wireless-bluetooth-speakers-mini-round-original-imaguexhnp2yueaf.jpeg?q=70",
       MRP: "M.R.P.: ₹450",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -414,6 +443,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l58iaa80/speaker/mobile-tablet-speaker/e/k/4/wireless-rechargeable-brand-new-top-selling-portable-stereo-original-imagfya8pjqnz4mh.jpeg?q=70",
       MRP: "M.R.P.: ₹450",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -430,6 +460,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kkec4280/book/2/b/8/the-girl-in-room-105-original-imafzr6nczgggedw.jpeg?q=70",
       MRP: "M.R.P.: ₹222",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -445,6 +476,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/jpr86fk0/book/0/6/6/the-complete-sherlock-holmes-original-imafbwzbsqvffw2r.jpeg?q=70",
       MRP: "M.R.P.: ₹412",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -459,6 +491,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kxrvi4w0/book/r/v/f/two-indian-girls-original-imaga58grurnu9fa.jpeg?q=70",
       MRP: "M.R.P.: ₹159",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -473,6 +506,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kz5vwy80/book/j/5/7/the-little-prince-original-imagb83vjjfy4rnh.jpeg?q=70",
       MRP: "M.R.P.: ₹350",
+      quantity:"1",
       Rating: "4.6",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -487,6 +521,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/book/d/f/m/animal-tales-of-india-original-imagg5dnzfsze6ua.jpeg?q=70",
       MRP: "M.R.P.: ₹199",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -501,6 +536,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l0vbukw0/book/w/m/l/maratha-bravehearts-original-imagcjhtfv3zqqwf.jpeg?q=70",
       MRP: "M.R.P.: ₹199",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -515,6 +551,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/ki7qw7k0-0/book/8/g/1/life-s-amazing-secrets-original-imafyfb8sjah7zbh.jpeg?q=70",
       MRP: "M.R.P.: ₹174",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -529,6 +566,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/book/b/r/k/do-it-today-original-imag9f4wa9pkaufy.jpeg?q=70",
       MRP: "M.R.P.: ₹192",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -543,6 +581,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/regionalbooks/z/o/v/cooleen-s-combo-it-starts-with-us-it-ends-with-us-original-imagj9mtqsvfgges.jpeg?q=70",
       MRP: "M.R.P.: ₹260",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -559,6 +598,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/h/a/8/-original-imagnydryhzawfmr.jpeg?q=70",
       MRP: "M.R.P.: ₹5000",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -573,6 +613,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/7/u/8/-original-imagqrchjvzfdrar.jpeg?q=70",
       MRP: "M.R.P.: ₹2317",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -587,6 +628,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/a/t/m/-original-imagz75frrhzv7uj.jpeg?q=70",
       MRP: "M.R.P.: ₹3523",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -601,6 +643,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/n/m/c/-original-imagzhf9h49q6wfx.jpeg?q=70",
       MRP: "M.R.P.: ₹2621",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -615,6 +658,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/w/s/d/-original-imagnqcjgxcxmfjb.jpeg?q=70",
       MRP: "M.R.P.: ₹765",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -629,6 +673,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/b/l/z/-original-imagqrcgc64gjwts.jpeg?q=70",
       MRP: "M.R.P.: ₹1559",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -645,6 +690,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
       MRP: "M.R.P.: ₹84,838",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -659,6 +705,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
       MRP: "M.R.P.: ₹54,990",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -673,6 +720,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/e/9/l/ma-10-gaming-pc-for-gta-free-fire-zoonis-original-imagnnya8fkfgrsh.jpeg?q=70",
       MRP: "M.R.P.: ₹14,846",
+      quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -687,6 +735,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/o/k/i5-500-128-19-wifi-tech-assemblers-original-imagtj9wgzhveghm.jpeg?q=70",
       MRP: "M.R.P.: ₹13,599",
+      quantity:"1",
       Rating: "3.7",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -701,6 +750,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kljrvrk0/desktop-computer/9/e/k/ent2gb8gb-002-entwino-original-imagyn3jfmz5ugjz.jpeg?q=70",
       MRP: "M.R.P.: ₹12,282",
+      quantity:"1",
       Rating: "3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -715,6 +765,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/cpu/t/j/1/2-8-alien-gaming-i7-best-for-gaming-gta-free-fire-edting-500-original-imagnmvhpnm5qq47.jpeg?q=70",
       MRP: "M.R.P.: ₹12,282",
+      quantity:"1",
       Rating: "3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -729,6 +780,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/q/s/assembled-pc-assembld-original-imagmxptgjcw7vgx.jpeg?q=70",
       MRP: "M.R.P.: ₹10,999",
+      quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -743,6 +795,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
       MRP: "M.R.P.: ₹87,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -757,6 +810,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
       MRP: "M.R.P.: ₹86,999",
+      quantity:"1",
       Rating: "4.7",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -771,6 +825,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/z/z/o/-original-imagfdeu9rmugapt.jpeg?q=70",
       MRP: "M.R.P.: ₹1,09,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -785,6 +840,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/s/n/d/katana-17-b13vfk-253in-gaming-laptop-msi-original-imagmmhgf9gjkhzf.jpeg?q=70",
       MRP: "M.R.P.: ₹1,04,999",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -799,6 +855,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/e/f/-original-imaguegytjhxdfdf.jpeg?q=70",
       MRP: "M.R.P.: ₹17,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -816,6 +873,7 @@ const blog = [
       Image:
         "https://res.cloudinary.com/dpqbph9ya/image/upload/f_auto,q_auto/v1/mobile/mpotlwzuex0aj8sbaou2",
       MRP: "M.R.P.: ₹1,39,900",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -829,6 +887,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
       MRP: "M.R.P.: ₹56,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -843,6 +902,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
       MRP: "M.R.P.: ₹57,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -857,6 +917,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
       MRP: "M.R.P.: ₹57,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -871,6 +932,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70",
       MRP: "M.R.P.: ₹40,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -885,6 +947,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70",
       MRP: "M.R.P.: ₹12,490",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -899,6 +962,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70",
       MRP: "M.R.P.: ₹11,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -913,6 +977,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/c/x/-original-imagtyxdm82fsv6m.jpeg?q=70",
       MRP: "M.R.P.: ₹11,490",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -927,6 +992,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -941,6 +1007,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -955,6 +1022,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70",
       MRP: "M.R.P.: ₹12,990",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -969,6 +1037,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
       MRP: "M.R.P.: ₹6,328",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -983,6 +1052,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
       MRP: "M.R.P.: ₹25,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -997,6 +1067,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
       MRP: "M.R.P.: ₹6,328",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1011,6 +1082,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/g/j/-original-imagt5uejuxw2ytm.jpeg?q=70",
       MRP: "M.R.P.: ₹13,999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1025,6 +1097,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kingqkw0-0/speaker/mobile-tablet-speaker/s/8/i/stone-350-boat-original-imafyebfuaumdezs.jpeg?q=70",
       MRP: "M.R.P.: ₹1399",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1039,6 +1112,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l1s6z680/speaker/tower-speaker/b/v/j/fridoble-bencley-original-imagd93feyprzyhb.jpeg?q=70",
       MRP: "M.R.P.: ₹5446",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1053,6 +1127,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/mobile-tablet-speaker/f/g/3/powerpact-bass-stereo-audio-color-changing-led-light-wireless-original-imagrwmfzupf3pfe.jpeg?q=70",
       MRP: "M.R.P.: ₹391",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1067,6 +1142,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-speaker/k/m/z/yes-10-ace-tg-113-splash-proof-3d-sound-with-high-bass-6hr-original-imagj2jga3xqtfy7.jpeg?q=70",
       MRP: "M.R.P.: ₹479",
+      quantity:"1",
       Rating: "3.6",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1080,7 +1156,8 @@ const blog = [
       name: "Blaupunkt SBA20F 16 W Bluetooth Soundbar  (Black, 2.1 Channel)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kr3tj0w0/speaker/soundbar/e/v/c/sba20f-blaupunkt-original-imag4yrh4yhgmzpr.jpeg?q=70",
-      MRP: "M.R.P.: ₹1299",
+      MRP: "M.R.P: ₹1299",
+      quantity:"1",
       Rating: "4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1095,6 +1172,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/2/6/w/-original-imagsjnvnfprucbz.jpeg?q=70",
       MRP: "M.R.P.: ₹1699",
+      quantity:"1",
       Rating: "3.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1109,6 +1187,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/c/s/j/-original-imaghb5cb86bjhgs.jpeg?q=70",
       MRP: "M.R.P.: ₹6999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1123,6 +1202,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70",
       MRP: "M.R.P.: ₹8999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1137,6 +1217,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/z/1/x/-original-imagsywg5ydhmhkh.jpeg?q=70",
       MRP: "M.R.P.: ₹8999",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1151,6 +1232,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/keykscw0-0/speaker/home-theatre/s/e/j/jumbo-9-core-original-imafvjfdgnheg4sz.jpeg?q=70",
       MRP: "M.R.P.: ₹3940",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1165,6 +1247,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/3/4/3/-original-imagtjhdgfqmhu33.jpeg?q=70",
       MRP: "M.R.P.: ₹1799",
+      quantity:"1",
       Rating: "3.8",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1179,6 +1262,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg?q=70",
       MRP: "M.R.P.: ₹9490",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1193,6 +1277,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kjom6q80-0/speaker/mobile-tablet-speaker/r/a/g/blitz-2000-boat-original-imafz78cs8ftzgbq.jpeg?q=70",
       MRP: "M.R.P.: ₹3999",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1207,6 +1292,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/mobile-tablet-speaker/s/q/a/jb-mini-boost-4-colorful-wireless-bluetooth-speakers-mini-round-original-imaguexhnp2yueaf.jpeg?q=70",
       MRP: "M.R.P.: ₹450",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1221,6 +1307,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l58iaa80/speaker/mobile-tablet-speaker/e/k/4/wireless-rechargeable-brand-new-top-selling-portable-stereo-original-imagfya8pjqnz4mh.jpeg?q=70",
       MRP: "M.R.P.: ₹450",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1235,6 +1322,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kkec4280/book/2/b/8/the-girl-in-room-105-original-imafzr6nczgggedw.jpeg?q=70",
       MRP: "M.R.P.: ₹222",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1250,6 +1338,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/jpr86fk0/book/0/6/6/the-complete-sherlock-holmes-original-imafbwzbsqvffw2r.jpeg?q=70",
       MRP: "M.R.P.: ₹412",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1264,6 +1353,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kxrvi4w0/book/r/v/f/two-indian-girls-original-imaga58grurnu9fa.jpeg?q=70",
       MRP: "M.R.P.: ₹159",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1278,6 +1368,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kz5vwy80/book/j/5/7/the-little-prince-original-imagb83vjjfy4rnh.jpeg?q=70",
       MRP: "M.R.P.: ₹350",
+      quantity:"1",
       Rating: "4.6",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1292,6 +1383,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/book/d/f/m/animal-tales-of-india-original-imagg5dnzfsze6ua.jpeg?q=70",
       MRP: "M.R.P.: ₹199",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1306,6 +1398,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/l0vbukw0/book/w/m/l/maratha-bravehearts-original-imagcjhtfv3zqqwf.jpeg?q=70",
       MRP: "M.R.P.: ₹199",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1320,6 +1413,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/ki7qw7k0-0/book/8/g/1/life-s-amazing-secrets-original-imafyfb8sjah7zbh.jpeg?q=70",
       MRP: "M.R.P.: ₹174",
+      quantity:"1",
       Rating: "4.9",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1334,6 +1428,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/book/b/r/k/do-it-today-original-imag9f4wa9pkaufy.jpeg?q=70",
       MRP: "M.R.P.: ₹192",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1348,6 +1443,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/regionalbooks/z/o/v/cooleen-s-combo-it-starts-with-us-it-ends-with-us-original-imagj9mtqsvfgges.jpeg?q=70",
       MRP: "M.R.P.: ₹260",
+      quantity:"1",
       Rating: "4.4",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1362,6 +1458,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/h/a/8/-original-imagnydryhzawfmr.jpeg?q=70",
       MRP: "M.R.P.: ₹5000",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1376,6 +1473,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/7/u/8/-original-imagqrchjvzfdrar.jpeg?q=70",
       MRP: "M.R.P.: ₹2317",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1390,6 +1488,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/a/t/m/-original-imagz75frrhzv7uj.jpeg?q=70",
       MRP: "M.R.P.: ₹3523",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1404,6 +1503,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/n/m/c/-original-imagzhf9h49q6wfx.jpeg?q=70",
       MRP: "M.R.P.: ₹2621",
+      quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1418,6 +1518,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/w/s/d/-original-imagnqcjgxcxmfjb.jpeg?q=70",
       MRP: "M.R.P.: ₹765",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1432,6 +1533,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/b/l/z/-original-imagqrcgc64gjwts.jpeg?q=70",
       MRP: "M.R.P.: ₹1559",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1446,6 +1548,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
       MRP: "M.R.P.: ₹84,838",
+      quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1461,6 +1564,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
       MRP: "M.R.P.: ₹54,990",
+      quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1475,6 +1579,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/e/9/l/ma-10-gaming-pc-for-gta-free-fire-zoonis-original-imagnnya8fkfgrsh.jpeg?q=70",
       MRP: "M.R.P.: ₹14,846",
+      quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1489,6 +1594,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/o/k/i5-500-128-19-wifi-tech-assemblers-original-imagtj9wgzhveghm.jpeg?q=70",
       MRP: "M.R.P.: ₹13,599",
+      quantity:"1",
       Rating: "3.7",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1503,6 +1609,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kljrvrk0/desktop-computer/9/e/k/ent2gb8gb-002-entwino-original-imagyn3jfmz5ugjz.jpeg?q=70",
       MRP: "M.R.P.: ₹12,282",
+      quantity:"1",
       Rating: "3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1517,6 +1624,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/cpu/t/j/1/2-8-alien-gaming-i7-best-for-gaming-gta-free-fire-edting-500-original-imagnmvhpnm5qq47.jpeg?q=70",
       MRP: "M.R.P.: ₹12,282",
+      quantity:"1",
       Rating: "3",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1531,6 +1639,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/q/s/assembled-pc-assembld-original-imagmxptgjcw7vgx.jpeg?q=70",
       MRP: "M.R.P.: ₹10,999",
+      quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1545,6 +1654,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
       MRP: "M.R.P.: ₹87,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1559,6 +1669,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
       MRP: "M.R.P.: ₹86,999",
+      quantity:"1",
       Rating: "4.7",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1573,6 +1684,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/z/z/o/-original-imagfdeu9rmugapt.jpeg?q=70",
       MRP: "M.R.P.: ₹1,09,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1587,6 +1699,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/s/n/d/katana-17-b13vfk-253in-gaming-laptop-msi-original-imagmmhgf9gjkhzf.jpeg?q=70",
       MRP: "M.R.P.: ₹1,04,999",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
@@ -1601,6 +1714,7 @@ const blog = [
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/e/f/-original-imaguegytjhxdfdf.jpeg?q=70",
       MRP: "M.R.P.: ₹17,990",
+      quantity:"1",
       Rating: "5",
       Availabeoffer1:
         "Bank Offer 5% Unlimited Cashback on Flipkart Axis Bank Credit Card",
