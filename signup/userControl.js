@@ -1,6 +1,7 @@
 const array=[]
 const bcrypt = require('bcrypt')
 const jwt=require("jsonwebtoken")
+// const productdata = require("../moongoose/User")
 const secret_key='harkirpa'
 
 const register=(req,res)=>{
@@ -49,4 +50,25 @@ const login=(req,res)=>{
     }
     // console.log('login details',logindata)
 };
-module.exports={register,login};
+const searchproduct = async (req, res) => {
+  try {
+    const search = req.body.search;
+    console.log(req.body.search);
+    const searching = await productdata.find({
+      Name: { $regex: new RegExp(search, "i") }, // "i" for case-insensitive search
+    });
+    console.log(search);
+    if (searching.length > 0) {
+      return res
+        .status(200)
+        .json({ success: true, msg: "Product details", data: searching });
+    } else {
+      return res.status(404).json({ msg: "No matching products found" });
+    }
+  } catch (error) {
+    console.error(error);
+    return res.status(500).json({ msg: "Internal server error" });
+  }
+};
+
+module.exports={register,login,searchproduct};
