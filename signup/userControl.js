@@ -1,7 +1,7 @@
 const array=[]
 const bcrypt = require('bcrypt')
 const jwt=require("jsonwebtoken")
-// const productdata = require("../moongoose/User")
+const Product = require("../moongoose/User")
 const secret_key='harkirpa'
 
 const register=(req,res)=>{
@@ -24,7 +24,7 @@ const register=(req,res)=>{
      const token=jwt.sign({useremail:data.email},secret_key)
     console.log(token)
     // res.send(array)
-    res.send({msg:'userRequired',token:token})
+    res.send({msg:'User Registered',token:token})
 };
 
 const login=(req,res)=>{
@@ -54,7 +54,7 @@ const searchproduct = async (req, res) => {
   try {
     const search = req.body.search;
     console.log(req.body.search);
-    const searching = await productdata.find({
+    const searching = await Product.find({
       Name: { $regex: new RegExp(search, "i") }, // "i" for case-insensitive search
     });
     console.log(search);
