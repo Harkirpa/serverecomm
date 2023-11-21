@@ -4,7 +4,7 @@ const blog = [
       name: "Iphone 14 pro max",
       Image:
         "https://res.cloudinary.com/dpqbph9ya/image/upload/f_auto,q_auto/v1/mobile/mpotlwzuex0aj8sbaou2",
-      MRP: "1,39,900",
+      MRP: "139900",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -18,7 +18,7 @@ const blog = [
       name: "APPLE iPhone 14 (Blue, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
-      MRP: "56,999",
+      MRP: "56999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -33,7 +33,7 @@ const blog = [
       name: "APPLE iPhone 14 (Purple, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
-      MRP: "57,999",
+      MRP: "57999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -48,7 +48,7 @@ const blog = [
       name: "APPLE iPhone 14 (StarLight, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
-      MRP: "57,999",
+      MRP: "57999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -63,7 +63,7 @@ const blog = [
       name: "APPLE iPhone 12 (White, 64 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70",
-      MRP: "40,999",
+      MRP: "40999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -78,7 +78,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70",
-      MRP: "12,490",
+      MRP: "12490",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -93,7 +93,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70",
-      MRP: "11,999",
+      MRP: "11999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -108,7 +108,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/c/x/-original-imagtyxdm82fsv6m.jpeg?q=70",
-      MRP: "11,490",
+      MRP: "11490",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -123,7 +123,7 @@ const blog = [
       name: "vivo T2x 5G (Aurora Gold, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -138,7 +138,7 @@ const blog = [
       name: "vivo T2x 5G (Marine Blue, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -153,7 +153,7 @@ const blog = [
       name: "vivo T2x 5G (Glimmer Black, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -168,7 +168,7 @@ const blog = [
       name: "REDMI A2 (Sea Green, 64 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
-      MRP: "6,328",
+      MRP: "6328",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -183,7 +183,7 @@ const blog = [
       name: "REDMI Note 12 Pro 5G (Stardust Purple, 256 GB)  (12 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
-      MRP: "25,999",
+      MRP: "25999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -198,7 +198,7 @@ const blog = [
       name: "REDMI Note 12 Pro 5G (Glacier Blue, 256 GB)  (8 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
-      MRP: "6,328",
+      MRP: "6328",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -214,7 +214,7 @@ const blog = [
       name: "MOTOROLA g54 5G (Midnight Blue, 128 GB)  (8 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/g/j/-original-imagt5uejuxw2ytm.jpeg?q=70",
-      MRP: "13,999",
+      MRP: "13999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -689,7 +689,7 @@ const blog = [
       name: "bHP Victus Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/50 TGP) fa1145TX Gaming Laptop  (15.6 inch, Performance Blue, 2.37 Kg, With MS Office)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
-      MRP:"84,838",
+      MRP:"84838",
       quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
@@ -704,7 +704,7 @@ const blog = [
       name: " HP Victus Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6500M) 15-fb0134AX Gaming Laptop  (15.6 Inch, Performance Blue, 2.37 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
-      MRP: "54,990",
+      MRP: "54990",
       quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
@@ -719,7 +719,7 @@ const blog = [
       name: "ZOONIS Home & Office Core i5 (8 GB DDR3/500 GB/128 GB SSD/Windows 10 Pro/19 Inch Screen/Home & Office Core i5 Premium Desktop Complete Set 8 GB DDR3/500 GB/128 GB SSD/) with MS Office  (Black)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/e/9/l/ma-10-gaming-pc-for-gta-free-fire-zoonis-original-imagnnya8fkfgrsh.jpeg?q=70",
-      MRP: "14,846",
+      MRP: "14846",
       quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
@@ -734,7 +734,7 @@ const blog = [
       name: "TECH- Assemblers Assembled Desktop Core i5 (8 GB DDR3/500 GB/128 GB SSD/Windows 10 Pro/512 MB/19 Inch Screen/i5-500-128-19-wifi)  (Multicolor)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/o/k/i5-500-128-19-wifi-tech-assemblers-original-imagtj9wgzhveghm.jpeg?q=70",
-      MRP: "13,599",
+      MRP: "13599",
       quantity:"1",
       Rating: "3.7",
       Availabeoffer1:
@@ -749,7 +749,7 @@ const blog = [
       name: "ASSEMBLD CORE I5 Core i5 (8 GB DDR3/1 TB/128 GB SSD/Windows 10 Pro/1 GB NO/20 Inch Screen/IMPACT ASSEMBLED) with MS Office  (Black, 9 cm x 55 cm x 35 cm, 5 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kljrvrk0/desktop-computer/9/e/k/ent2gb8gb-002-entwino-original-imagyn3jfmz5ugjz.jpeg?q=70",
-      MRP: "12,282",
+      MRP: "12282",
       quantity:"1",
       Rating: "3",
       Availabeoffer1:
@@ -764,7 +764,7 @@ const blog = [
       name: "ZOONIS Intel® Core™ i7-860 Processor (8M Cache, 2.80 GHz) (16 GB RAM/NVIDIA GeForce GT 710 2GB DDR3 Graphics Card Graphics/500 GB Hard Disk",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/cpu/t/j/1/2-8-alien-gaming-i7-best-for-gaming-gta-free-fire-edting-500-original-imagnmvhpnm5qq47.jpeg?q=70",
-      MRP: "12,282",
+      MRP: "12282",
       quantity:"1",
       Rating: "3",
       Availabeoffer1:
@@ -779,7 +779,7 @@ const blog = [
       name: "ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Windows 11 Home/20 Inch Screen/ASSEMBLED PC) with MS Office  (Black, 45 cm x 55 cm x 15 cm, 5 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/q/s/assembled-pc-assembld-original-imagmxptgjcw7vgx.jpeg?q=70",
-      MRP: "10,999",
+      MRP: "10999",
       quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
@@ -794,7 +794,7 @@ const blog = [
       name: "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A  (13.6 Inch, Midnight, 1.24 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
-      MRP: "87,990",
+      MRP: "87990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -809,7 +809,7 @@ const blog = [
       name: "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLXY3HN/A  (13.6 Inch, Silver, 1.24 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
-      MRP: "86,999",
+      MRP: "86999",
       quantity:"1",
       Rating: "4.7",
       Availabeoffer1:
@@ -824,7 +824,7 @@ const blog = [
       name: "APPLE 2022 MacBook Pro M2 - (8 GB/256 GB SSD/Mac OS Monterey) MNEH3HN/A  (13.3 Inch, Space Grey, 1.38 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/z/z/o/-original-imagfdeu9rmugapt.jpeg?q=70",
-      MRP: "1,09,990",
+      MRP: "109990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -839,7 +839,7 @@ const blog = [
       name: "MSI Katana 17 Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/144 Hz) Katana 17 B13VEK-254IN Gaming Laptop  (17.3 Inch, Black, 2.6 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/s/n/d/katana-17-b13vfk-253in-gaming-laptop-msi-original-imagmmhgf9gjkhzf.jpeg?q=70",
-      MRP: "1,04,999",
+      MRP: "104999",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -854,7 +854,7 @@ const blog = [
       name: "HP intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na1004TU Chromebook  (14 Inch, Mineral Silver, 1.46 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/e/f/-original-imaguegytjhxdfdf.jpeg?q=70",
-      MRP: "17,990",
+      MRP: "17990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -872,7 +872,7 @@ const blog = [
       name: "Iphone 14 pro max",
       Image:
         "https://res.cloudinary.com/dpqbph9ya/image/upload/f_auto,q_auto/v1/mobile/mpotlwzuex0aj8sbaou2",
-      MRP: "1,39,900",
+      MRP: "139900",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -886,7 +886,7 @@ const blog = [
       name: "APPLE iPhone 14 (Blue, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
-      MRP: "56,999",
+      MRP: "56999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -901,7 +901,7 @@ const blog = [
       name: "APPLE iPhone 14 (Purple, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
-      MRP: "57,999",
+      MRP: "57999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -916,7 +916,7 @@ const blog = [
       name: "APPLE iPhone 14 (StarLight, 128 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
-      MRP: "57,999",
+      MRP: "57999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -931,7 +931,7 @@ const blog = [
       name: "APPLE iPhone 12 (White, 64 GB)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q=70",
-      MRP: "40,999",
+      MRP: "40999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -946,7 +946,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/8/k/-original-imagtyxcgmgvtm7y.jpeg?q=70",
-      MRP: "12,490",
+      MRP: "12490",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -961,7 +961,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/z/v/e/-original-imagtyxbptwcpjta.jpeg?q=70",
-      MRP: "11,999",
+      MRP: "11999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -976,7 +976,7 @@ const blog = [
       name: "SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/g/c/x/-original-imagtyxdm82fsv6m.jpeg?q=70",
-      MRP: "11,490",
+      MRP: "11490",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -991,7 +991,7 @@ const blog = [
       name: "vivo T2x 5G (Aurora Gold, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1006,7 +1006,7 @@ const blog = [
       name: "vivo T2x 5G (Marine Blue, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1021,7 +1021,7 @@ const blog = [
       name: "vivo T2x 5G (Glimmer Black, 128 GB)  (6 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70",
-      MRP: "12,990",
+      MRP: "12990",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1036,7 +1036,7 @@ const blog = [
       name: "REDMI A2 (Sea Green, 64 GB)  (4 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
-      MRP: "6,328",
+      MRP: "6328",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1051,7 +1051,7 @@ const blog = [
       name: "REDMI Note 12 Pro 5G (Stardust Purple, 256 GB)  (12 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70",
-      MRP: "25,999",
+      MRP: "25999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1066,7 +1066,7 @@ const blog = [
       name: "REDMI Note 12 Pro 5G (Glacier Blue, 256 GB)  (8 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70",
-      MRP: "6,328",
+      MRP: "6328",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1081,7 +1081,7 @@ const blog = [
       name: "MOTOROLA g54 5G (Midnight Blue, 128 GB)  (8 GB RAM)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/g/j/-original-imagt5uejuxw2ytm.jpeg?q=70",
-      MRP: "13,999",
+      MRP: "13999",
       quantity:"1",
       Rating: "4.5",
       Availabeoffer1:
@@ -1547,7 +1547,7 @@ const blog = [
       name: "bHP Victus Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/50 TGP) fa1145TX Gaming Laptop  (15.6 inch, Performance Blue, 2.37 Kg, With MS Office)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
-      MRP: "84,838",
+      MRP: "84838",
       quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
@@ -1563,7 +1563,7 @@ const blog = [
       name: " HP Victus Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX 6500M) 15-fb0134AX Gaming Laptop  (15.6 Inch, Performance Blue, 2.37 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
-      MRP: "54,990",
+      MRP: "54990",
       quantity:"1",
       Rating: "4.2",
       Availabeoffer1:
@@ -1578,7 +1578,7 @@ const blog = [
       name: "ZOONIS Home & Office Core i5 (8 GB DDR3/500 GB/128 GB SSD/Windows 10 Pro/19 Inch Screen/Home & Office Core i5 Premium Desktop Complete Set 8 GB DDR3/500 GB/128 GB SSD/) with MS Office  (Black)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/e/9/l/ma-10-gaming-pc-for-gta-free-fire-zoonis-original-imagnnya8fkfgrsh.jpeg?q=70",
-      MRP: "14,846",
+      MRP: "14846",
       quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
@@ -1593,7 +1593,7 @@ const blog = [
       name: "TECH- Assemblers Assembled Desktop Core i5 (8 GB DDR3/500 GB/128 GB SSD/Windows 10 Pro/512 MB/19 Inch Screen/i5-500-128-19-wifi)  (Multicolor)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/o/k/i5-500-128-19-wifi-tech-assemblers-original-imagtj9wgzhveghm.jpeg?q=70",
-      MRP: "13,599",
+      MRP: "13599",
       quantity:"1",
       Rating: "3.7",
       Availabeoffer1:
@@ -1608,7 +1608,7 @@ const blog = [
       name: "ASSEMBLD CORE I5 Core i5 (8 GB DDR3/1 TB/128 GB SSD/Windows 10 Pro/1 GB NO/20 Inch Screen/IMPACT ASSEMBLED) with MS Office  (Black, 9 cm x 55 cm x 35 cm, 5 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kljrvrk0/desktop-computer/9/e/k/ent2gb8gb-002-entwino-original-imagyn3jfmz5ugjz.jpeg?q=70",
-      MRP: "12,282",
+      MRP: "12282",
       quantity:"1",
       Rating: "3",
       Availabeoffer1:
@@ -1623,7 +1623,7 @@ const blog = [
       name: "ZOONIS Intel® Core™ i7-860 Processor (8M Cache, 2.80 GHz) (16 GB RAM/NVIDIA GeForce GT 710 2GB DDR3 Graphics Card Graphics/500 GB Hard Disk",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/cpu/t/j/1/2-8-alien-gaming-i7-best-for-gaming-gta-free-fire-edting-500-original-imagnmvhpnm5qq47.jpeg?q=70",
-      MRP: "12,282",
+      MRP: "12282",
       quantity:"1",
       Rating: "3",
       Availabeoffer1:
@@ -1638,7 +1638,7 @@ const blog = [
       name: "ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Windows 11 Home/20 Inch Screen/ASSEMBLED PC) with MS Office  (Black, 45 cm x 55 cm x 15 cm, 5 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/allinone-desktop/s/q/s/assembled-pc-assembld-original-imagmxptgjcw7vgx.jpeg?q=70",
-      MRP: "10,999",
+      MRP: "10999",
       quantity:"1",
       Rating: "3.5",
       Availabeoffer1:
@@ -1653,7 +1653,7 @@ const blog = [
       name: "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLY33HN/A  (13.6 Inch, Midnight, 1.24 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
-      MRP: "87,990",
+      MRP: "87990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -1668,7 +1668,7 @@ const blog = [
       name: "APPLE 2022 MacBook AIR M2 - (8 GB/256 GB SSD/Mac OS Monterey) MLXY3HN/A  (13.6 Inch, Silver, 1.24 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/1/n/p/-original-imagfdfew8gszzhk.jpeg?q=70",
-      MRP: "86,999",
+      MRP: "86999",
       quantity:"1",
       Rating: "4.7",
       Availabeoffer1:
@@ -1683,7 +1683,7 @@ const blog = [
       name: "APPLE 2022 MacBook Pro M2 - (8 GB/256 GB SSD/Mac OS Monterey) MNEH3HN/A  (13.3 Inch, Space Grey, 1.38 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/z/z/o/-original-imagfdeu9rmugapt.jpeg?q=70",
-      MRP: "1,09,990",
+      MRP: "109990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -1698,7 +1698,7 @@ const blog = [
       name: "MSI Katana 17 Core i7 13th Gen 13620H - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050/144 Hz) Katana 17 B13VEK-254IN Gaming Laptop  (17.3 Inch, Black, 2.6 Kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/s/n/d/katana-17-b13vfk-253in-gaming-laptop-msi-original-imagmmhgf9gjkhzf.jpeg?q=70",
-      MRP: "1,04,999",
+      MRP: "104999",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
@@ -1713,7 +1713,7 @@ const blog = [
       name: "HP intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) 14a- na1004TU Chromebook  (14 Inch, Mineral Silver, 1.46 kg)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/e/f/-original-imaguegytjhxdfdf.jpeg?q=70",
-      MRP: "17,990",
+      MRP: "17990",
       quantity:"1",
       Rating: "5",
       Availabeoffer1:
