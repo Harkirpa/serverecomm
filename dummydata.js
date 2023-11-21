@@ -689,7 +689,7 @@ const blog = [
       name: "bHP Victus Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/50 TGP) fa1145TX Gaming Laptop  (15.6 inch, Performance Blue, 2.37 Kg, With MS Office)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/8/i/j/-original-imagthcbgurdzwuc.jpeg?q=70",
-      MRP: "84,838",
+      MRP:"84,838",
       quantity:"1",
       Rating: "4.3",
       Availabeoffer1:
