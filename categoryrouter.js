@@ -1,4 +1,4 @@
-const { login, register ,searchproduct} = require('./signup/userControl');
+// const { login, register ,searchproduct} = require('./signup/userControl');
 const { blogController, electronicsController, laptopController, watchesController, booksController, dummyController } = require('./categorycontroller');
 
 const categoryRouter=require("express").Router();

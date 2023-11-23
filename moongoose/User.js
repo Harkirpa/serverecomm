@@ -2,6 +2,13 @@ const mongoose = require("mongoose");
 
 const apiscehma = new mongoose.Schema({
   name: String,
+  Image:String,
+  quantity:Number,
+  MRP:Number,
+  Rating:Number,
+  Availabeoffer1:String,
+  Availabeoffer2:String,
+  category:String,
  subcat:String
   
 });
