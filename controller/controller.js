@@ -1,67 +1,65 @@
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const Product = require("../moongoose/User");
-const userdata = require("../moongoose/UserModel");
+const User = require("../moongoose/UserModel");
 const secretkey = "harkirpa";
 const saltnumber = 10;
 
-const register = async (req, res) => {
-  try {
-    const { username, email, password, confirmpassword } = req.body;
+const register = async (req,res)=>{
+  try{      
+      const {email, password,name} = req.body;
+      console.log(req.body)
 
-    if (password !== confirmpassword) {
-      return res.status(200).send({ msg: "Passwords do not match" });
-    }
+      const existingUser = await User.findOne({email}).maxTimeMS(20000)
 
-    // Check if the email is already in use
-    const existingUser = await userdata.findOne({ email });
-    if (existingUser) {
-      return res.status(200).send({ msg: "Email is already registered" });
-    }
+      if(existingUser){
+          return res.status(400).json({message:"User already exist"})
+      }
 
-    // Hash the password
-    const hashedPassword = await bcrypt.hash(password, saltnumber);
-    const hashconfirmpass = await bcrypt.hash(confirmpassword, saltnumber);
+      const hashedPassword = await bcrypt.hash(password,10)
 
-    // Create the user
-    const user = await userdata.create({
-      username,
-      email,
-      password: hashedPassword,
-      confirmpassword: hashconfirmpass, // Include the confirmpassword field
-    });
+      const newUser  =  new User({email,password:hashedPassword})
+      await newUser.save()
 
-    console.log(user);
-    res.status(200).send({ user });
-  } catch (error) {
-    console.error(error); // Use `console.error` to log errors
-    res.status(500).send({ msg: "User not created", err: error.message });
+      const token = jwt.sign({userId:newUser._id},"secret",{expiresIn:"2d"})
+      return res.status(201).json({ message: 'User created successfully',token, email,name});
+    
+  }catch(error){
+      console.log(error);
+      return res.status(500).json({message:"Internal Server Error"})
   }
-};
+}
 
 const login = async (req, res) => {
   try {
     let data = req.body;
     const { email, password } = data;
-    console.log(data);
-    const login = await userdata.findOne({ email: email });
-    if (!login) {
-      return res.status(200).send({ msg: "user not found" });
-    }
-    if ((await bcrypt.compare(password, login.password)) == false) {
-      return res.status(200).send({ msg: "incorrect password" });
-    }
-    const token = jwt.sign({ _id: login._id }, secretkey, { expiresIn: "24h" });
-    console.log(login, token);
-    const loginemail = login.email;
-    const loginpass = login.password;
-    console.log(loginemail, loginpass);
 
-    res
-      .status(200)
-      .send({ user: [loginemail, loginpass], token: token, userid: login._id });
+    const user = await userdata.findOne({ email: email });
+
+    if (!user) {
+      return res.status(200).send({ success: false, msg: "User not found" });
+    }
+
+    const isPasswordValid = await bcrypt.compare(password, user.password);
+
+    if (!isPasswordValid) {
+      return res.status(200).send({ success: false, msg: "Incorrect password" });
+    }
+
+    const token = jwt.sign({ _id: user._id }, secretkey, { expiresIn: "24h" });
+
+    res.status(200).send({
+      success: true,
+      data: {
+        user: { email: user.email }, // Avoid logging the password
+        token: token,
+        userid: user._id
+      }
+    });
   } catch (e) {
-    res.status(500).send("error occured", e);
+    console.error("Error during login:", e);
+    res.status(500).send({ success: false, error: "An error occurred", message: e.message });
   }
 };
 const dashboard = (req, res) => {

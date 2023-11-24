@@ -2,10 +2,11 @@ require("dotenv").config()
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const connection=require('./config/db')
+// const connectdb=require('./config/db')
 // const connectdb=require('./config/db')
 const routing=require("./router/Routing")
-const categoryRouter=require('./categoryrouter')
+const categoryRouter=require('./categoryrouter');
+const connectdb = require("./config/db");
 const port = 4000;
 const stripe = require("stripe")("sk_test_51OFWLzSIxNWsH91sWLyg64W7geTkp8idVZwHDIBS7IyLPEBu9daqeRJ5PYbQXb0sVoePLP7hgokCpj0OadxbF5Dc003Ii7i9fd");
 app.use(
@@ -15,7 +16,8 @@ app.use(
 );
 app.use(express.json());
 app.use('/api',categoryRouter)
-app.use("/", routing);
+app.use(routing);
+connectdb()
 // checkout api
 app.post("/api/create-checkout-session",async(req,res)=>{
     const {products} = req.body;
@@ -45,7 +47,7 @@ app.post("/api/create-checkout-session",async(req,res)=>{
 
 app.listen(port,async()=>{
     try{
-        await connection();
+        // await connection();
         console.log('server is running on Port No. 4000')
     }
     catch(err){

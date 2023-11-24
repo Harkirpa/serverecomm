@@ -1,22 +1,26 @@
-const cloudURL = "mongodb+srv://kirpa704:test1234@testingpro.37erh3v.mongodb.net/?retryWrites=true&w=majority";
+const cloudURL = `mongodb+srv://Inayat:test1234@testingpro.37erh3v.mongodb.net/?retryWrites=true&w=majority`;
 const mongoose= require("mongoose")
-mongoose.set("strictQuery", true)
-const connection = async () => {
-    try {
-     const result= await mongoose.connect(cloudURL)
-        console.log("Connected")
-        // console.log(result)
+// mongoose.set("strictQuery", true)
+// const connection = async () => {
+//     try {
+//     await mongoose.connect(cloudURL)
+//         console.log("Connected")
+//         // console.log(result)
+//     }
+//     catch (err) {
+//         console.log(err, "occured during connection with DB")
+//     }
+// }
+// module.exports = connection
+function connectdb(){
+    try{
+ mongoose.connect(cloudURL, { useNewUrlParser: true })
+ console.log("Connected to database")
     }
-    catch (err) {
+    catch(err) {
         console.log(err, "occured during connection with DB")
     }
 }
-module.exports = connection
-// const mongoose=require("mongoose")
-// const connectdb=(url)=>mongoose.connect(url)
-//     .then(()=>console.log("mongoose is connected................."))
-//     .catch((error)=>console.log(error))
-
-// module.exports=connectdb
+module.exports=connectdb
 
 
