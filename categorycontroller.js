@@ -16,7 +16,10 @@ const electronicsController=(req,res)=>{
   const booksController=(req,res)=>{
    return res.send(books)
 }
+const Success=(req,res)=>{
+    return res.send(Success)
+}
 const dummyController=(req,res)=>{
     return res.send(dummy)
 }
-module.exports={blogController,electronicsController,booksController,watchesController,laptopController,dummyController}
+module.exports={blogController,electronicsController,booksController,watchesController,laptopController,dummyController,Success}
