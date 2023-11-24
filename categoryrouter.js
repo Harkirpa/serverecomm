@@ -9,7 +9,7 @@ categoryRouter.get("/laptop",laptopController)
 categoryRouter.get("/watches",watchesController)
 categoryRouter.get("/books",booksController)
 categoryRouter.get("/dummy",dummyController)
-categoryRouter.post("/login",login)
-categoryRouter.post("/register",register)
-categoryRouter.get("/search", searchproduct);
+// categoryRouter.post("/login",login)
+// categoryRouter.post("/register",register)
+// categoryRouter.get("/search", searchproduct);
 module.exports=categoryRouter;
