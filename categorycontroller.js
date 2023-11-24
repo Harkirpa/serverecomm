@@ -17,7 +17,7 @@ const electronicsController=(req,res)=>{
    return res.send(books)
 }
 const Success=(req,res)=>{
-    return res.send(Success)
+    return res.send("Success")
 }
 const dummyController=(req,res)=>{
     return res.send(dummy)
