@@ -1,14 +1,13 @@
+require("dotenv").config()
 const express = require("express");
+const app = express();
 const cors = require("cors");
-// const connection=require('./config/db')
+const connection=require('./config/db')
 // const connectdb=require('./config/db')
 const routing=require("./router/Routing")
 // const categoryRouter=require('./categoryrouter')
-const dotenv = require("dotenv");
-const app = express();
 const port = 4000;
 const stripe = require("stripe")("sk_test_51OFWLzSIxNWsH91sWLyg64W7geTkp8idVZwHDIBS7IyLPEBu9daqeRJ5PYbQXb0sVoePLP7hgokCpj0OadxbF5Dc003Ii7i9fd");
-dotenv.config();
 app.use(
   cors({
     origin: "*",
@@ -46,8 +45,7 @@ app.post("/api/create-checkout-session",async(req,res)=>{
 
 app.listen(port,async()=>{
     try{
-        // await connectdb(process.env.MONGODB_URI);
-        // await connection()
+        await connection();
         console.log('server is running on Port No. 4000')
     }
     catch(err){
