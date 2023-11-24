@@ -1,4 +1,4 @@
-const cloudURL = `mongodb+srv://Inayat:test1234@testingpro.37erh3v.mongodb.net/?retryWrites=true&w=majority`;
+const cloudURL = `mongodb+srv://kirpa704:test1234@testingpro.37erh3v.mongodb.net/?retryWrites=true&w=majority`;
 const mongoose= require("mongoose")
 // mongoose.set("strictQuery", true)
 // const connection = async () => {
