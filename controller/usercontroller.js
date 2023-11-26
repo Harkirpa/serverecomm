@@ -1,20 +1,12 @@
-const dummy = require("../dummydata");
+const { dummy } = require("../dummydata");
 const Product = require("../moongoose/User");
 
 const insertdata = async (req, res) => {
   try {
-    const user = await Product.create(dummy);
-    res.status(201).send({
-      msg: "successfully inserted data",
-      success: true,
-      User: user,
-    });
+    const response = await Product.create(dummy);
+    res.send(response);
   } catch (error) {
-    console.log("Error while inserting data", error);
-    res.status(400).json({
-      success: false,
-      error: error.message,
-    });
+    res.status(500).send({ error: error.message });
   }
 };
 
@@ -27,4 +19,4 @@ const getapidata = async (req, res) => {
   }
 };
 
-module.exports = { insertdata, getapidata };
+module.exports = { insertdata, getapidata }
