@@ -35,8 +35,8 @@ app.post("/api/create-checkout-session",async(req,res)=>{
         payment_method_types:["card"],
         line_items:lineItems,
         mode:"payment",
-        success_url:"https://serverecommerce-5g49.onrender.com",
-        cancel_url:"https://serverecommerce-5g49.onrender.com/cart",
+        success_url:"https://imaginative-faloodeh-517d9b.netlify.app/",
+        cancel_url:"https://imaginative-faloodeh-517d9b.netlify.app/cart",
     });
 
     res.json({id:session.id})
