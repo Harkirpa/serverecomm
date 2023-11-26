@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
 const apiscehma = new mongoose.Schema({
+  id:Number,
   name: String,
   Image:String,
   quantity:Number,
