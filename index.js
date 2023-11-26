@@ -35,8 +35,8 @@ app.post("/api/create-checkout-session",async(req,res)=>{
         payment_method_types:["card"],
         line_items:lineItems,
         mode:"payment",
-        success_url:"http://localhost:3000/success",
-        cancel_url:"http://localhost:3000/cart",
+        success_url:"https://serverecommerce-5g49.onrender.com/success",
+        cancel_url:"https://serverecommerce-5g49.onrender.com/cart",
     });
 
     res.json({id:session.id})
