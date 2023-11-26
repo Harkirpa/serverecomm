@@ -1156,7 +1156,7 @@ const blog = [
       name: "Blaupunkt SBA20F 16 W Bluetooth Soundbar  (Black, 2.1 Channel)",
       Image:
         "https://rukminim2.flixcart.com/image/832/832/kr3tj0w0/speaker/soundbar/e/v/c/sba20f-blaupunkt-original-imag4yrh4yhgmzpr.jpeg?q=70",
-      MRP: "M.R.P: ₹1299",
+      MRP: "1299",
       quantity:"1",
       Rating: "4",
       Availabeoffer1:
