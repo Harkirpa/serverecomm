@@ -8,7 +8,7 @@ const {
   searchproduct,
 } = require("../controller/controller");
 const userauth=require("../middleware/auth")
-routing.get("/insert", insertdata);
+routing.post("/insert", insertdata);
 routing.get("/getdata", getapidata);
 routing.post("/register", register);
 routing.post("/login", login);

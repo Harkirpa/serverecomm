@@ -3,14 +3,13 @@ const jwt = require("jsonwebtoken");
 const Product = require("../moongoose/User");
 const User = require("../moongoose/UserModel");
 const secretkey = "harkirpa";
-const saltnumber = 10;
 
 const register = async (req,res)=>{
   try{      
       const {email, password,name} = req.body;
       console.log(req.body)
 
-      const existingUser = await User.findOne({email}).maxTimeMS(20000)
+      const existingUser = await User.findOne({email})
 
       if(existingUser){
           return res.status(400).json({message:"User already exist"})

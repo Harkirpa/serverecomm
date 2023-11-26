@@ -1,10 +1,9 @@
 const dummy = require("../dummydata");
-const api = require("../moongoose/User");
+const Product = require("../moongoose/User");
 
 const insertdata = async (req, res) => {
   try {
-    await api.deleteMany({});
-    const user = await api.create(dummy);
+    const user = await Product.create(dummy);
     res.status(201).send({
       msg: "successfully inserted data",
       success: true,
@@ -21,7 +20,7 @@ const insertdata = async (req, res) => {
 
 const getapidata = async (req, res) => {
   try {
-    const result = await api.find();
+    const result = await Product.find({});
     res.status(200).send(result);
   } catch (err) {
     console.log("Error to Find User " + err);
