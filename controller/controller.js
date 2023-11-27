@@ -69,7 +69,7 @@ const dashboard = (req, res) => {
   
     const queryObj = {};
     if (category) {
-      queryObj.name = { $regex: category, $options: "i" };
+      queryObj.category = { $regex: category, $options: "i" };
     }
     try {
       const searchedData = await Product.find(queryObj);

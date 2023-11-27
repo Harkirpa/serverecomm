@@ -12,7 +12,7 @@ routing.post("/insert", insertdata);
 routing.get("/getdata", getapidata);
 routing.post("/register", register);
 routing.post("/login", login);
-routing.post("/search", searchproduct);
+routing.get("/search", searchproduct);
 routing.get("/dashboard", userauth, dashboard);
 routing.get("/data", (req, res) => {
   res.send(dummy);
