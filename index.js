@@ -36,7 +36,7 @@ app.post("/api/create-checkout-session",async(req,res)=>{
         line_items:lineItems,
         mode:"payment",
         success_url:"https://imaginative-faloodeh-517d9b.netlify.app/",
-        cancel_url:"https://imaginative-faloodeh-517d9b.netlify.app/cart",
+        cancel_url:"https://imaginative-faloodeh-517d9b.netlify.app/",
     });
 
     res.json({id:session.id})
