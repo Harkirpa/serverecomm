@@ -65,11 +65,11 @@ const dashboard = (req, res) => {
     });
   };
   const searchproduct= async (req, res) => {
-    const { name } = req.query;
+    const { category } = req.query;
   
     const queryObj = {};
-    if (name) {
-      queryObj.name = { $regex: name, $options: "i" };
+    if (category) {
+      queryObj.name = { $regex: category, $options: "i" };
     }
     try {
       const searchedData = await Product.find(queryObj);
