@@ -71,8 +71,6 @@ const dashboard = (req, res) => {
     if (name) {
       queryObj.name = { $regex: name, $options: "i" };
     }
-
-  
     try {
       const searchedData = await Product.find(queryObj);
       res.send(searchedData);
