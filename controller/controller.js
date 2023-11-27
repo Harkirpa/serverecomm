@@ -65,11 +65,11 @@ const dashboard = (req, res) => {
     });
   };
   const searchproduct= async (req, res) => {
-    const { category } = req.query;
+    const { subcat } = req.query;
   
     const queryObj = {};
-    if (category) {
-      queryObj.category = { $regex: category, $options: "i" };
+    if (subcat) {
+      queryObj.subcat = { $regex: subcat, $options: "i" };
     }
     try {
       const searchedData = await Product.find(queryObj);
